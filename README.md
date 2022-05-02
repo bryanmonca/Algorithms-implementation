@@ -1,4 +1,4 @@
-# Algorithms Implementation
+# Search Algorithms Implementation
 
 Implementation of well-known algorithms using Python:
 * Uninformed Search: Bread First Search, Depth First Search, and Uniform cost search implementation
